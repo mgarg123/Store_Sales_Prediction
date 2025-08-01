@@ -3,7 +3,7 @@ joblib
 Flask
 Flask-RESTful
 jsonschema
-matplotlib
+matplotlib==3.10.5
 matplotlib-inline
 numpy
 pandas
