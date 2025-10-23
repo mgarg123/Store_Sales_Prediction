@@ -4,7 +4,7 @@ Flask
 Flask-RESTful
 jsonschema
 matplotlib
-matplotlib-inline
+matplotlib-inline==0.2.1
 numpy
 pandas
 python-dotenv==0.19.0
