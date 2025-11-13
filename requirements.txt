@@ -14,6 +14,6 @@ seaborn
 statsmodels
 Werkzeug
 pylint
-pytest
+pytest==9.0.1
 cassandra-driver
 catboost
