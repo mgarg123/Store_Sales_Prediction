@@ -2,7 +2,7 @@ gunicorn
 joblib
 Flask
 Flask-RESTful
-jsonschema
+jsonschema==4.26.0
 matplotlib
 matplotlib-inline
 numpy
