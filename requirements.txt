@@ -12,7 +12,7 @@ scikit-learn
 scipy
 seaborn
 statsmodels
-Werkzeug
+Werkzeug==3.1.5
 pylint
 pytest
 cassandra-driver
