@@ -16,4 +16,4 @@ Werkzeug
 pylint
 pytest
 cassandra-driver
-catboost
+catboost==1.2.10
