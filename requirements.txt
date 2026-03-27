@@ -1,4 +1,4 @@
-gunicorn
+gunicorn==25.3.0
 joblib
 Flask
 Flask-RESTful
