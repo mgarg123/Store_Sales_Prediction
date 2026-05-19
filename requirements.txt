@@ -5,7 +5,7 @@ Flask-RESTful
 jsonschema
 matplotlib
 matplotlib-inline
-numpy
+numpy==2.4.6
 pandas
 python-dotenv==0.19.0
 scikit-learn
