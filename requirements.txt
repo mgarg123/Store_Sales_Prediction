@@ -15,5 +15,5 @@ statsmodels
 Werkzeug
 pylint
 pytest
-cassandra-driver
+cassandra-driver==3.30.1
 catboost
